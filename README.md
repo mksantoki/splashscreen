@@ -1,6 +1,6 @@
 # splashscreen
 
-Futter Example with splash screen 
+Flutter Example with splash screen 
 
 ## Getting Started
 
